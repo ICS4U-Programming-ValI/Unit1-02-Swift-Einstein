@@ -1,2 +1,2 @@
 # Unit1-02-Swift-Einstein
-[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-ValI/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-ValI/actions/)
+[![SwiftLint](https://github.com/ICS4U-Programming-ValI/Unit1-02-Swift-Einstein/workflows/SwiftLint/badge.svg)](https://github.com/ICS4U-Programming-ValI/Unit1-02-Swift-Einstein/actions)
